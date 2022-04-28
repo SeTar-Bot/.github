@@ -4,71 +4,36 @@
     <img src="https://github.com/Setar-Bot/Setar-Bot/raw/main/img/logo.png" width="260" align="right" alt="setar-bot-logo">
 </a>
 
-> Setar-bot was originally founded in 2019, by the time passes, we update the bot and now, in the very beginning of version 3, we are making bot an open-source project
+> Setar-bot was originally founded in 2019, by the time passes, we update the bot and now, in the very beginning of version 3, we are making every project of our team to an open-source project
 
-## Table of Contents
-- [Why Setar-Bot?](#why-setar-bot)
-- [Installation](#installation)
-- [Features](#features)
-- [Config](#config)
+## Most Popular & Useful Projects
+- [Discord Bot](#discord-bot)
+- [Website](#website)
+- [Discord Utils](#discord-utils)
 - [Support](#support)
-- [LICENSE](#license)
 
-### Why Setar-Bot?
-Setar-bot has many features, but to begin with, we would suggest, the bot has a mutli language system implanted in the source, so you can easily manage and add your own very language to the bot.
+## Discord Bot
 
-### Installation
+Our first and the most popular Discord bot, Setar-bot was the first verified persian music bot, since then we have been working to stay the best, and now here we are, getting to be the best with help of everyone.
 
-- Install Packages
+[Check out Repo](https://github.com/Setar-bot/bot/)
 
-    - `npn install`
+## Website
 
-- Install FFMPEG
+Since we had a bot, a team and a Discord community, it was a little accured that we didn't had any website for us, so we made this one too!
 
-    - Make sure to add the FFMPEG to the Environment
+[Check out Repo](https://github.com/Setar-bot/website/)
 
-- Build
+## Discord Utils
 
-    - Setar-Bot is written in Typescript, so make sure to compile it (using Babel)
+a module to help you automate some functions in Discord.js
 
-    - `npm run build`
+We are planning on adding some more features to this package as the time passes, feel free to check it out
 
-- Enjoy
+[Check out Repo](https://github.com/Setar-bot/discord-utils/)
 
-    - Setar-Bot Component and Classes are compiled and ready to use in `dist` Folder
+## Support
 
-### Features
-- [x] Support YouTube, Spotify, SoundCloud, Deezer using [music-engines](https://npmjs.com/music-engines)
-- [x] Multi Language System
-- [x] Perfecte Typings and Structers
+We have a Discord Community, Feel free to seek for help, Have a nice tech discussion with other people and have a chat with us 😃
 
-## Config
-There is no need to change the source code at all, you can easily setup your bot by Changing Environment, You can take a look at [.example.env](https://github.com/SeTar-Bot/Setar-Bot/blob/main/example.env) File
-### Support
-You can ask about Source configuration and bot setup in [our Disocrd Server](https://discord.gg/7jgfP6j4Tc)
-
-### License
-```
-MIT License
-
-Copyright (c) 2022 EhsanFox
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-```
+[Join Discord Server](https://discord.gg/7jgfP6j4Tc)
