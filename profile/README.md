@@ -20,7 +20,7 @@ Our first and the most popular Discord bot, Setar-bot was the first verified per
 
 ## Website
 
-Since we had a bot, a team and a Discord community, it was a little accured that we didn't had any website for us, so we made this one too!
+Since we had a bot, a team and a Discord community, it was a little awkward that we didn't had any website for us, so we made this one too!
 
 [Check out Repo](https://github.com/Setar-bot/website/)
 
